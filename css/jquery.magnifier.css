@@ -39,7 +39,7 @@
 .magnifier .right {
     width: 200px;
     height: 200px;
-    background-image: url('./img/130940113.jpg');
+    background-image: url('../img/130940113.jpg');
     float: left;
     margin-left: 50px;
     display: none;
